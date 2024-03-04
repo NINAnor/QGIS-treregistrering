@@ -4,7 +4,7 @@ QField Treregisteringsapp er NINAs feltregistreringsverktøy for treregistrering
 
 QField Treregisteringsapp er en leveranse av Trekroner-prosjektet, mer informasjon om prosjektet finner du her: [Trekroner Documentation](https://ninanor.github.io/trekroner-docs/).
 
-**Referanser**
+### Referanser
 
 - Nollet, A., Barton, D.N., Cimburova, Z. & Often, A. 2021. Accounting for amenities and regulating ecosystem ser-vices of urban trees. Testing a combined field protocol for VAT19 and i-Tree Eco valuation methods. NINA Report 1948. Norwegian Institute for Nature Research.
 
