@@ -21,7 +21,7 @@
 - Language changed to Norwegian.
 - Updated background maps to the Sandvika test area and added a canopy height model (CHM) layer for the test area.
 
-## Version 3.0.0 (2023)
+## Version 3.0.0 (2024)
 
 - Official release of the QField Treregistringsapp on GitHub.
 - **Documentation:**
